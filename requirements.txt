@@ -1,0 +1,7 @@
+pandas
+seaborn
+pandas-profiling
+ipykernel
+jupyterlab
+scikit-learn
+matplotlib
